@@ -1,0 +1,14 @@
+{
+    "default_text_model": "autonomous",
+    "default_image_model": "flux",
+    "enable_web_search": true,
+    "web_search_max_results": 3,
+    "default_video_model": "",
+    "enable_autonomous_discovery": true,
+    "cache_discovery_results": true,
+    "discovery_cache_minutes": 60,
+    "image_keywords": ["draw", "image", "picture", "photo", "illustration", "art"],
+    "video_keywords": [],
+    "theme": "dark",
+    "chat_history_limit": 50
+}
